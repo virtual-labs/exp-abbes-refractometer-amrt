@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Refractive index of the material increases when temperature",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Independent",
+        "d": "First increases then decreases"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In most materials, as temperature increases, density decreases, hence refractive index typically decreases.",
+        "b": "Correct: Generally, refractive index increases as temperature decreases due to increased density.",
+        "c": "Refractive index does depend on temperature in most materials.",
+        "d": "Rarely observed behavior in specific materials, not general case."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "According to Total internal reflection,",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Light must travel from denser medium to rarer medium",
+        "b": "Angle of incidence should be greater that of critical angle",
+        "c": "Light must travel from rarer medium to denser medium",
+        "d": "Both a and b"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct: Total internal reflection occurs only when light moves from denser to rarer medium.",
+        "b": "Correct: The angle of incidence must exceed the critical angle.",
+        "c": "Incorrect: TIR cannot happen when moving to a denser medium.",
+        "d": "Correct Answer: Both conditions are necessary for total internal reflection."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

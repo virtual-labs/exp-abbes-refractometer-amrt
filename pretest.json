@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Refractive index of the material increases when temperature",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Independent",
+        "d": "First increases then decreases"
+      },
+      "explanations": {
+        "a": "In most materials, as temperature increases, density decreases, hence refractive index typically decreases.",
+        "b": "Correct: Generally, refractive index increases as temperature decreases due to increased density.",
+        "c": "Refractive index does depend on temperature in most materials.",
+        "d": "Rarely observed behavior in specific materials, not general case."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "According to Total internal reflection,",
+      "answers": {
+        "a": "Light must travel from denser medium to rarer medium",
+        "b": "Angle of incidence should be greater that of critical angle",
+        "c": "Light must travel from rarer medium to denser medium",
+        "d": "Both a and b"
+      },
+      "explanations": {
+        "a": "Correct: Total internal reflection occurs only when light moves from denser to rarer medium.",
+        "b": "Correct: The angle of incidence must exceed the critical angle.",
+        "c": "Incorrect: TIR cannot happen when moving to a denser medium.",
+        "d": "Correct Answer: Both conditions are necessary for total internal reflection."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

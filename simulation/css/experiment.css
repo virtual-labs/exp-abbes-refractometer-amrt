@@ -1,0 +1,43 @@
+md-select {
+    padding: 0px 2px 0px !important;
+}
+
+#show_direction{
+	margin: -6px 0px -12px 63px;
+}
+
+#material_list{
+	margin: 6px 0px -7px 13px;
+}
+
+#environment_list{
+	margin: 6px 0px -7px 13px;
+}
+
+.slider_value{
+	margin: -8px 0px -10px 0px;
+}
+
+#reset{
+	margin: -4px 0px 11px 2px;
+}
+
+#switchOn {
+    margin-bottom: 2em;
+}
+ 
+#show_result{
+	margin: 7px 0px -2px 19px;
+}
+
+#site-sidenav{
+	display: none;
+	overflow-x: hidden; 
+}
+#res{
+	display: inline;
+}
+#res + span{
+	display: inline;
+    margin-left: -12px;
+}

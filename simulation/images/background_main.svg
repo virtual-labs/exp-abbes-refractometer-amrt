@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="700px" viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="377.1719" y1="1001.3643" x2="370.4427" y2="-115.0167">
+			<stop  offset="0" style="stop-color:#97A78B"/>
+			<stop  offset="0.4471" style="stop-color:#6A957B"/>
+			<stop  offset="1" style="stop-color:#243931"/>
+		</linearGradient>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" points="774.8,683.7 354.1,685.4 -28.3,696.7 -27.2,-3.6 
+			774.8,-3.6 		"/>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_2_" cx="363.7002" cy="1.7002" r="412.9556" fx="375.0362" fy="1.7002" gradientTransform="matrix(1 2.603194e-003 -1.566891e-003 0.6019 3.906250e-003 -0.2699)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FBFEFD;stop-opacity:0.2471"/>
+			<stop  offset="0.502" style="stop-color:#CDEDE2;stop-opacity:0.1686"/>
+			<stop  offset="0.9765" style="stop-color:#CCCFD5;stop-opacity:0"/>
+		</radialGradient>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M558.2-6.3l189.2,240.8c16.1,32.9-76.1,66.6-276.5,101.1
+			C270.3,370.2,143.5,357,90.4,296.3c-53.2-60.8-62-107.7-26.5-140.9C134.4,75.6,179.1,21.4,198-7.1L558.2-6.3z"/>
+	</g>
+	<g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#151E18" d="M878.9,712.5L711.5,489.6l-0.9-1.3l1.3,1.3v-18.9h0.1l167,178.9
+				V712.5z M42.6,489.8l-193.8,218.5v-50.7L42.5,470.7v18.9L42.6,489.8z"/>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2B3C2F" points="711.8,470.7 711.8,489.6 710.6,488.3 711.5,489.6 
+				42.6,489.6 42.6,489.8 42.5,489.6 42.5,470.7 			"/>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#52543B" points="711.5,489.6 878.9,712.5 878.9,714.8 -151.1,714.8 
+				-151.1,708.2 42.6,489.8 42.6,489.6 			"/>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#314639" points="42.5,470.7 -151.1,657.5 -151.1,-3.9 42.5,-3.9 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="362.5117" y1="671.3252" x2="362.4377" y2="730.7752">
+				<stop  offset="0" style="stop-color:#3A2E15"/>
+				<stop  offset="1" style="stop-color:#725629"/>
+			</linearGradient>
+			<rect x="-51.6" y="670.6" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" width="828.2" height="61"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-38.6714" y1="746.6602" x2="696.4742" y2="525.0707">
+				<stop  offset="0" style="stop-color:#A17C48"/>
+				<stop  offset="0.2" style="stop-color:#B28E50"/>
+				<stop  offset="0.6471" style="stop-color:#90682B"/>
+				<stop  offset="1" style="stop-color:#AF823E"/>
+			</linearGradient>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" points="781.3,665 781.3,680.5 -57.6,680.5 -57.6,662.8 
+				33.7,543.8 708,543.8 			"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-84.2627" y1="672.2754" x2="811.5624" y2="672.2754">
+				<stop  offset="0" style="stop-color:#372915;stop-opacity:0.7333"/>
+				<stop  offset="0.2706" style="stop-color:#3F3019;stop-opacity:0.5451"/>
+				<stop  offset="1" style="stop-color:#584427;stop-opacity:0.6431"/>
+			</linearGradient>
+			<rect x="-57.6" y="664" fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_5_)" width="838.2" height="16.5"/>
+		</g>
+		<g>
+			<line fill-rule="evenodd" clip-rule="evenodd" fill="none" x1="742.3" y1="664" x2="-33.1" y2="664"/>
+		</g>
+	</g>
+</g>
+</svg>

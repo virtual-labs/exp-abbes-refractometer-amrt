@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Nature of the light obtained from sodium vapour lamp is",
+      "answers": {
+        "a": "Dichromatic",
+        "b": "Focusing",
+        "c": "Monochromatic",
+        "d": "Composite light"
+      },
+      "explanations": {
+        "a": "Incorrect: Sodium vapor lamp emits primarily monochromatic yellow light.",
+        "b": "Incorrect: 'Focusing' is not a nature of light but an optical effect.",
+        "c": "Correct: The light is nearly monochromatic (single wavelength).",
+        "d": "Incorrect: Composite light refers to mixture of wavelengths, unlike sodium vapor."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Speed of light is maximum in",
+      "answers": {
+        "a": "Air",
+        "b": "Wood",
+        "c": "Vacuum",
+        "d": "Nitrogen"
+      },
+      "explanations": {
+        "a": "Incorrect: Light travels faster in vacuum than in air.",
+        "b": "Incorrect: Light travels slower in dense mediums like wood.",
+        "c": "Correct: Speed of light is maximum in vacuum, about 3 x 10^8 m/s.",
+        "d": "Incorrect: Slightly slower than in vacuum or air."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Dielectric constant is proportional to",
+      "answers": {
+        "a": "Square of refractive index",
+        "b": "Square root of refractive index",
+        "c": "Cube of refractive index",
+        "d": "Independent of refractive index"
+      },
+      "explanations": {
+        "a": "Correct: Dielectric constant (ε) ≈ n² for non-magnetic materials.",
+        "b": "Incorrect: No known direct relation.",
+        "c": "Incorrect: Cube relation does not apply.",
+        "d": "Incorrect: It is related to refractive index."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
